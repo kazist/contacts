@@ -1,9 +1,9 @@
 {
-    "name": "contacts",
+    "name": "kazist/contacts",
     "title": "Contacts Manager",
     "icon": "assets\/contacts\/contacts\/icon.png",
     "extension": "component",
-    "path": "contacts\/",
+    "path": "applications/Contacts/",
      "is_core": "1",
     "description": "Contacts"
 }
